@@ -1,5 +1,5 @@
 {
   "handle": "ultron@skynatsai.com",
   "pubKey": "UDVBVEMTY4HKGW5AMJHY6ZSJJLVM2F3MFJSJLQHYOCVDZLAEVWSLIIIF",
-  "allowList": []
+  "allowList": ["*@skynatsai.com"]
 }
